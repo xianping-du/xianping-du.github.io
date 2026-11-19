@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Sun Yat-Sen University</a>. duxp3@mail.sysu.edu.cn
+subtitle: Associate Professor, School of Ocean Engineering and Technology, Sun Yat-sen University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   address: >
-    <p>Haiqin Building 3, Room B428 </p>
-    <p>2 Daxue Road</p>
     <p>Zhuhai, Guangdong, China</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false
+selected_papers: true
+social: true
 ---
 
-Dr. Xianping Du joined the Sun Yat-Sen University (SYSU) in January 2022 as Associate Professor in the School of Ocean Engineering and Technology ([SOET](https://soet.sysu.edu.cn/)). His research focuses on AI-driven structural and multidiciplinary design analysis and optimization. Additionally, he is interested in the structural crashworhiness and dynamical behaviors.
+Dr. Xianping Du is an Associate Professor at the School of Ocean Engineering and Technology, Sun Yat-sen University. His research focuses on intelligent design of complex engineering systems, structural and multiphysics optimization, and offshore wind energy.
 
-Prior to joining SYSU, Dr. Xu worked in Rutgers University, USA (2020-2022). He was working on a US DOE supported project for the development of a control co-design platform for floaitng offshore wind turbines (FOWT) with multi-fidelity simulation methods. In addition, he also involved in the FOCAL project for validating the software platform using the FOWT model experiments.
+He joined Sun Yat-sen University in 2022. From 2020 to 2022, he was a postdoctoral research associate at Rutgers University, where he worked on a U.S. Department of Energy project to develop a multifidelity design software platform for floating offshore wind turbines. He received his Ph.D. in Mechanical Engineering from Embry-Riddle Aeronautical University in 2019, his M.S. in Mechanical Engineering from Hunan University in 2015, and his B.S. in Vehicle Engineering from Shandong University of Technology in 2012.
 
-He received his B.S. in Vehicle Engineering from Shandong University of Technology, China (2012), M.S. in Mechanical Engineering from Hunan University, China (2015), and Ph.D. in Mechanical Engineering from Embry-Riddle Aeronautical University, USA (2019). In the Ph.D. dissertation, an interpretable methodology was developed for the design of hierarchical and complex systems based on machine learning techniques.
+His current projects include control co-design and structural stability of floating offshore wind turbines, structural response and damage mechanisms of offshore energy facilities under extreme marine hazards, and offshore wind farm wake optimization.
+
+For a full CV, see the [curriculum vitae](/cv/). Contact: [duxp3@mail.sysu.edu.cn](mailto:duxp3@mail.sysu.edu.cn). [Google Scholar](https://scholar.google.com/citations?user=EeHUTIMAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Xianping-Du/research).
