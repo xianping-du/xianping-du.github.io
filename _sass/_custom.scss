@@ -97,3 +97,16 @@ body.home-page > .container.mt-5 { width: 100%; max-width: none; margin-top: 0 !
   .contact-panel { padding: 25px 22px; }
   .publications .abbr { flex-basis: 56px; max-width: 56px; }
 }
+
+
+/* Homepage language switcher */
+[data-lang="zh"] { display: none !important; }
+body[data-language="en"] [data-lang="zh"] { display: none !important; }
+body[data-language="zh"] [data-lang="en"] { display: none !important; }
+body[data-language="zh"] [data-lang="zh"] { display: inline !important; }
+.language-switcher-item { display: flex; align-items: center; margin-left: .35rem; }
+.language-switcher { min-height: 36px; padding: .25rem 1.7rem .25rem .55rem; border: 1px solid var(--academic-line); border-radius: 4px; background: #fff; color: var(--academic-ink); font: inherit; font-size: .86rem; line-height: 1.2; }
+.language-switcher:focus { border-color: var(--academic-accent); outline: 2px solid rgba(23,103,138,.18); outline-offset: 1px; }
+@media (max-width: 767.98px) {
+  .language-switcher-item { margin: .35rem 0 .75rem; }
+}
